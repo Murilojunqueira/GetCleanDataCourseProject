@@ -68,6 +68,7 @@ The label of the variables come from the following files:
 
 * 'README.md'
 * 'CODEBOOK.md': variable description
+*  run_analysis.R: R scrip used to manipulate data.
 * 'averageData.txt': Average data of mean and standart deviation measurements, grouped by subject and activity.
 
 
